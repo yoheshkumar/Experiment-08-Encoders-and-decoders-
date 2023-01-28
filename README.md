@@ -55,9 +55,13 @@ D7 = X Y Z
 ## Figure -04 8 to 3 Decoder implementation 
 
 ### Procedure
-/* write all the steps invloved */
+1.Using OR Gates construct 8:3 Encoder
 
+2.Repeat the same for 3:8 Decoder using AND Gate 
 
+3.Find RTL logic and Timing Diagram for both Encoder and Decoder
+
+4.End the Program
 
 ### PROGRAM 
 ```
